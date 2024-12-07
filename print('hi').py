@@ -36,3 +36,4 @@ b= 0
 while (b<4):
     print(b)
     b= b+1
+    c=c+1 #comment
